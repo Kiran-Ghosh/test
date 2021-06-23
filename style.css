@@ -1,8 +1,8 @@
-#container {
+container {
     position: relative;
 }
 
-#ball {
+ball {
     width: 20px;
     height: 20px;
     background-color: red;
@@ -12,7 +12,7 @@
     border-radius: 50%;
 }
 
-#rod1, #rod2 {
+rod1, rod2 {
     width: 200px;
     height: 20px;
     position: fixed;
@@ -23,12 +23,12 @@
     font-weight: bold;
 }
 
-#rod1 {
+rod1 {
     background-color: blue;
     top: 0px;    
 }
 
-#rod2 {
+rod2 {
     background-color: blueviolet;
     bottom: 0px;
 }
