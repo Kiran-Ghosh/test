@@ -9,7 +9,7 @@ const rod1Name = "Rod 1";
 const rod2Name = "Rod 2";
 
 
-var score,
+let score,
     maxScore,
     movement,
     rod,
